@@ -1,5 +1,10 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A2anlneTA3ajAxZXYxOGx4Y2ZqbWtvYjhwdGRhbmlqY2JxcmlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="t.me/GGeorge_7">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram-blue&logoColor=white" alt="telegram-blue Badge"/>
+  </a>
+</div>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Joker-7-7&style=flat-square&color=blue"/>
