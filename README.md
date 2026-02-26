@@ -46,10 +46,10 @@ Focus on the performance, architecture of medical imaging systems, and deep inte
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
+    <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/QML.png" title="qml" alt="qml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="opengl" alt="opengl" width="40" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Visualization_Toolkit_logo.svg/3840px-Visualization_Toolkit_logo.svg.png" title="vtk" alt="vtk" width="50" height="40"/>&nbsp;
    <img src="https://discourse.itk.org/uploads/default/original/1X/83aa25abdcbd323ce491ff99db5dfe2e59d7fd4d.png" title="itk" alt="itk" width="60" height="60"/>&nbsp;
-  <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/QML.png" title="qml" alt="qml" width="40" height="40"/>&nbsp;
 </div>
 
 ---
